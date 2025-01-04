@@ -1,3 +1,6 @@
+# Markdown Nedir ?<br/>
+Markdown dosyası, genellikle .md veya .markdown uzantısına sahip bir düz metin dosyasıdır ve biçimlendirme yapmayı kolaylaştıran bir işaretleme dilini kullanır. Markdown, özellikle yazılı içeriği HTML gibi daha karmaşık biçimlere dönüştürmek için tasarlanmıştır.
+
 ## 1-Kod Nasıl Koyulur?  
 Kod eklemek için satır içine tek tırnak işareti (`) kullanabilirsiniz. Blok kodlar için üç tane  (backtick)  işareti kullanılır:  
 
